@@ -25,7 +25,7 @@
     "webpack-dev-server": "^1.16.2"
   },
   "dependencies": {
-    "blockcypher": "^0.2.0",
+    "blockcypher": "^0.3.0",
     "firebase": "^3.6.1",
     "moment": "^2.16.0",
     "normalize-css": "^2.3.1",
